@@ -21,7 +21,7 @@
 ## 🌱 Atualmente aprendendo
 
 - [ ] **Programação Orientada a Objetos (POO)** (Python)
-- [ ] **Desenvolvimento Web** (ex: Flask ou Django para backend em python)
+- [ ] **Desenvolvimento Web** (Flask e Django para backend em python)
 
 ## 💬 Vamos conversar!
 
