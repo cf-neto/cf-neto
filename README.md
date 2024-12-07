@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Carlos Fernando 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosfdsn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-fernando-784583301)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfdsn2008@gmail.com)
 
 
@@ -18,10 +17,10 @@
 
 </div>
 
-## 🌱 Atualmente aprendendo
+## 🌱 Projetos e Tecnologias em Foco
 
-- [ ] **Programação Orientada a Objetos (POO)** (Python)
-- [ ] **Desenvolvimento Web** (Flask e Django para backend em python)
+- Focado em aprender **Javascript** para front-end e expandir meus projetos web.
+- **Python** como a minha linguagem favorita, explorando back-end, algoritmos e data science.
 
 ## 💬 Vamos conversar!
 
