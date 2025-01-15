@@ -17,11 +17,17 @@
 
 </div>
 
-## 🌱 Projetos e Tecnologias em Foco
+## 🧑🏻‍💻 Projetos e Tecnologias em Foco
 
 - Focado em aprender **Javascript** para front-end e expandir meus projetos web.
 - **Python** como a minha linguagem favorita, explorando back-end, algoritmos e data science.
 
-## 💬 Vamos conversar!
+## Tecnologias para estudar nos próximos meses
 
-Sinta-se à vontade para entrar em contato se você tiver perguntas ou se quiser colaborar em projetos! Estou sempre aberto a novas oportunidades.
+<div style="display": inline_block">
+    <img align="center" alt="c#"src="[[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)">
+    <img align="center" alt="c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="c#"src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
+    <img align="center" alt="c#"src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)">
+    
+</div>
