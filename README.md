@@ -4,20 +4,17 @@
     <p style="font-size: 16.5px; margin-right: 12px;">
         Oi, eu sou Carlos Fernando dos Santos Neto, tenho 16 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
     </p>
-    <img style="margin: 5px; width: 280px;" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-    
-    
 </div>
-<br><br>
+<br>
 
-<div style="text-align: center;">
+<div style="text-align: center; text-decoration: none;">
     <a href="https://www.instagram.com/carlosfdsn" style="text-decoration: none; margin: 0 4px;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="mailto:carlosfdsn2008@gmail.com" style="text-decoration: none; margin: 0 10px;">
+    <a href="mailto:carlosfdsn2008@gmail.com" style="text-decoration: none; margin: 0 4px;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://github.com/CarlosFCode" style="text-decoration: none; margin: 0 10px;">
+    <a href="https://github.com/CarlosFCode" style="text-decoration: none; margin: 0 4px;">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </div>
@@ -51,7 +48,7 @@
         alt="CSS" 
         title="CSS" 
         style="padding-right: 4px;" align="center" alt="CSS" 
-        src="    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img 
         align="left" 
         alt="Notion" 
@@ -69,7 +66,7 @@
         alt="Git" 
         title="Git" 
         style="padding-right: 4px;" align="center" alt="Git" 
-        src="    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img 
         align="left" 
         alt="Jupyter" 
@@ -116,6 +113,6 @@
 <img 
     align="left" 
     alt="Github-stats" 
-    height="160" 
+    height="162" 
     style="padding-right: 10px; " 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=tokyonight&layout=compact" />
