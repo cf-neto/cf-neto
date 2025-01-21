@@ -27,28 +27,28 @@
         alt="Python" 
         title="Python"
         width="45"
-        style="padding-right: 10px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img 
         align="left" 
         alt="Javascript" 
         title="Javascript" 
         width="45"
-        style="padding-right: 10px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img 
         align="left" 
         alt="HTML" 
         title="HTML" 
         width="45"
-        style="padding-right: 10px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img 
         align="left" 
         alt="CSS" 
         title="CSS" 
         width="45"
-        style="padding-right: 10px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img 
         align="left" 
@@ -62,42 +62,42 @@
         alt="Vscode" 
         title="Vscode" 
         width="45"
-        style="padding-right: 6px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img 
         align="left" 
         alt="Git" 
         title="Git" 
         width="45"
-        style="padding-right: 6px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img 
         align="left" 
         alt="Jupyter" 
         title="Jupyter"
         width="45px" 
-        style="padding-right: 5px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
     <img 
         align="left" 
         alt="Pandas" 
         title="Pandas"
         width="45px" 
-        style="padding-right: 6px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
     <img 
         align="left" 
         alt="Numpy" 
         title="Numpy"
         width="45px" 
-        style="padding-right: 6px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
     <img 
         align="left" 
         alt="GitHub" 
         title="GitHub"
         width="45px" 
-        style="padding-right: 6px;"
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 </div>
@@ -118,7 +118,7 @@
 
 ---
 
-<br>
+<br/>
 <img 
     align="left" 
     alt="Github-stats" 
@@ -128,7 +128,7 @@
 <img 
     align="left" 
     alt="Github-stats" 
-    height="180" 
+    height="190" 
     style="padding-right: 10px; " 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=tokyonight&layout=compact" />
 
