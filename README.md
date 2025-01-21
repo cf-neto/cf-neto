@@ -119,18 +119,21 @@
 ---
 
 <br/>
-<img 
-    align="left" 
-    alt="Github-stats" 
-    height="190" 
-    style="padding-right: 10px; " 
-    src="https://github-readme-stats.vercel.app/api?username=CarlosFCode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img 
-    align="left" 
-    alt="Github-stats" 
-    height="190" 
-    style="padding-right: 10px; " 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=tokyonight&layout=compact" />
+<div style="display: inline_block;" >
+    <img 
+        align="left" 
+        alt="Github-stats" 
+        height="190" 
+        style="padding-right: 10px; " 
+        src="https://github-readme-stats.vercel.app/api?username=CarlosFCode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    <img 
+        align="left" 
+        alt="Github-stats" 
+        height="190" 
+        style="padding-right: 10px; " 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=tokyonight&layout=compact" />
+</div>
+
 
 <br/>
 
