@@ -1,8 +1,8 @@
-# 👨🏻‍💻  Carlos Fernando
+# 👨🏻‍💻 Carlos Fernando
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <p style="font-size: 16.5px; margin-right: 12px;">
-        Oi, eu sou Carlos Fernando dos Santos Neto, tenho 16 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
+        Oi, eu sou Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
     </p>
 </div>
 <br>
@@ -19,75 +19,86 @@
     </a>
 </div>
 
-
-
-
 ## 🌐 Arsenal de desenvolvimento
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin: 20px;">
     <img 
         align="left" 
         alt="Python" 
         title="Python"
-        style="padding-right: 1px;" align="center" alt="Python" 
-        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        width="45"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img 
         align="left" 
         alt="Javascript" 
         title="Javascript" 
-        style="padding-right: 1px;" align="center" alt="Javscript" 
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        width="45"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img 
         align="left" 
         alt="HTML" 
         title="HTML" 
-        style="padding-right: 1px;" align="center" alt="html5" 
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        width="45"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img 
         align="left" 
         alt="CSS" 
         title="CSS" 
-        style="padding-right: 1px;" align="center" alt="CSS" 
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        width="45"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img 
         align="left" 
         alt="Notion" 
         title="Notion"
-        style="padding-right: 1px;" align="center" alt="Notion" 
-        src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+        width="45"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
     <img 
         align="left" 
         alt="Vscode" 
         title="Vscode" 
-        style="padding-right: 1px;" align="center" alt="Vscode" 
-        src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+        width="45"
+        style="padding-right: 6px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img 
         align="left" 
         alt="Git" 
         title="Git" 
-        style="padding-right: 1px;" align="center" alt="Git" 
-        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        width="45"
+        style="padding-right: 6px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img 
         align="left" 
         alt="Jupyter" 
         title="Jupyter"
-        width="30px" 
-        style="padding-right: 1px;" align="center" alt="Jupyter" 
+        width="45px" 
+        style="padding-right: 5px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
     <img 
         align="left" 
         alt="Pandas" 
         title="Pandas"
-        width="30px" 
-        style="padding-right: 1px;" align="center" alt="Pandas" 
+        width="45px" 
+        style="padding-right: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
     <img 
         align="left" 
         alt="Numpy" 
         title="Numpy"
-        width="30px" 
-        style="padding-right: 1px;" align="center" alt="Numpy" 
+        width="45px" 
+        style="padding-right: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+    <img 
+        align="left" 
+        alt="GitHub" 
+        title="GitHub"
+        width="45px" 
+        style="padding-right: 6px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 </div>
 <br/>
@@ -96,10 +107,14 @@
 
 ## 🧑🏻‍💻 Projetos e Tecnologias em Foco
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosFCode&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<img>
+
 - Focado em aprender **Javascript** para front-end e expandir meus projetos web.
 - **Python** como a minha linguagem favorita, explorando back-end, algoritmos e data science.
-- Tenho ***tendências*** de estudos para tecnologias **Backend**, como C#, Ruby, PHP.
-<br>
+- Tenho **_tendências_** de estudos para tecnologias **Backend**, como C#, Ruby, PHP.
 
 ---
 
@@ -113,6 +128,13 @@
 <img 
     align="left" 
     alt="Github-stats" 
-    height="162" 
+    height="180" 
     style="padding-right: 10px; " 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=tokyonight&layout=compact" />
+
+<br/>
+
+<br/>
+
+<img style="margin-top: 30px;" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFCode&theme=tokyo-night"/>
+
