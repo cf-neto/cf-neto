@@ -119,7 +119,7 @@
 ---
 
 <br/>
-<div style="display: inline_block; margin-bottom: 30px;" >
+<div style="display: flex; margin-bottom: 30px; justify-content: space-around; align-items: center;" >
     <img 
         align="left" 
         alt="Github-stats" 
