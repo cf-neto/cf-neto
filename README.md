@@ -138,6 +138,3 @@
 <br/>
 
 <br/>
-
-<img style="margin-top: 50px;" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFCode&theme=rogue"/>
-
