@@ -119,7 +119,7 @@
 ---
 
 <br/>
-<div style="display: flex; margin-bottom: 30px; justify-content: space-around; align-items: center;" >
+<div style="display: flex; margin-bottom: 50px; justify-content: space-around; align-items: center;" >
     <img 
         align="left" 
         alt="Github-stats" 
@@ -133,8 +133,6 @@
         style="padding-right: 10px; " 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=radical&layout=compact" />
 </div>
-
----
 
 <br/>
 <br/>
