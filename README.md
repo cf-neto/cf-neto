@@ -134,10 +134,12 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=radical&layout=compact" />
 </div>
 
+---
 
+<br/>
 <br/>
 
 <br/>
 
-<img style="margin-top: 30px;" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFCode&theme=radical"/>
+<img style="margin-top: 50px;" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFCode&theme=rogue"/>
 
