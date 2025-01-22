@@ -98,7 +98,24 @@
         title="GitHub"
         width="45px" 
         style="padding-right: 6px; padding-top: 6px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img 
+        align="left" 
+        alt="GitHub" 
+        title="GitHub"
+        width="45px" 
+        style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img 
+        align="left" 
+        alt="GitHub" 
+        title="GitHub"
+        width="45px" 
+        style="padding-right: 6px; padding-top: 6px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+
+
+
 
 </div>
 <br/>
