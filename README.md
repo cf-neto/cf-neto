@@ -21,7 +21,7 @@
 
 ## 🌐 Arsenal de desenvolvimento
 
-<div style="display: inline_block; margin: 20px;">
+<div style="display: inline_block; margin: 20px; margin-bottom: 30px;">
     <img 
         align="left" 
         alt="Python" 
@@ -95,7 +95,7 @@
     <img 
         align="left" 
         alt="GitHub" 
-        title="GitHub"
+        title="Scikitlearn"
         width="45px" 
         style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
@@ -109,7 +109,7 @@
     <img 
         align="left" 
         alt="GitHub" 
-        title="GitHub"
+        title="Plotly"
         width="45px" 
         style="padding-right: 6px; padding-top: 6px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
@@ -118,10 +118,15 @@
 
 
 </div>
+
+<br/>
+<br/>
 <br/>
 
 ---
 
+<br/>
+<br/>
 <br/>
 
 ## 🧑🏻‍💻 Projetos e Tecnologias em Foco
