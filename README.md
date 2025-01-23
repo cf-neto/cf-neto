@@ -121,13 +121,6 @@
 
 <br/>
 <br/>
-<br/>
-
----
-
-<br/>
-<br/>
-<br/>
 
 ## 🧑🏻‍💻 Projetos e Tecnologias em Foco
 
