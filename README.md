@@ -123,10 +123,6 @@
 <br/>
 
 ## 🧑🏻‍💻 Projetos e Tecnologias em Foco
-
-[![GitHub Streak](https://github-readme-streak-stats-liart-eight.vercel.app?user=CarlosFCode&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 <img>
 
 - Focado em aprender **Javascript** para front-end e expandir meus projetos web.
