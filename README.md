@@ -119,12 +119,9 @@
 
 </div>
 
-<br/>
-<br/>
 
 ## 🧑🏻‍💻 Projetos e Tecnologias em Foco
 <img>
-
 - Focado em aprender **Javascript** para front-end e expandir meus projetos web.
 - **Python** como a minha linguagem favorita, explorando back-end, algoritmos e data science.
 - Tenho **_tendências_** de estudos para tecnologias **Backend**, como C#, Ruby, PHP.
