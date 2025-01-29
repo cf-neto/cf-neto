@@ -1,151 +1,97 @@
-# 👨🏻‍💻 Carlos Fernando
+<img align="right" height="290" src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gifv"  />
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <p style="font-size: 16.5px; margin-right: 12px;">
-        Oi, eu sou Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
-    </p>
-</div>
-<br>
+###
 
-<div style="text-align: center; text-decoration: none;">
-    <a href="https://www.instagram.com/carlosfdsn" style="text-decoration: none; margin: 0 4px;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:carlosfdsn2008@gmail.com" style="text-decoration: none; margin: 0 4px;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://github.com/CarlosFCode" style="text-decoration: none; margin: 0 4px;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
+<h1 align="center">Carlos Fernando</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/carlosfdsn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="carlosfdsn2008@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-## 🌐 Arsenal de desenvolvimento
+###
 
-<div style="display: inline_block; margin: 20px; margin-bottom: 30px;">
-    <img 
-        align="left" 
-        alt="Python" 
-        title="Python"
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img 
-        align="left" 
-        alt="Javascript" 
-        title="Javascript" 
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img 
-        align="left" 
-        alt="HTML" 
-        title="HTML" 
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS" 
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img 
-        align="left" 
-        alt="Notion" 
-        title="Notion"
-        width="45"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-    <img 
-        align="left" 
-        alt="Vscode" 
-        title="Vscode" 
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img 
-        align="left" 
-        alt="Git" 
-        title="Git" 
-        width="45"
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img 
-        align="left" 
-        alt="Jupyter" 
-        title="Jupyter"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-    <img 
-        align="left" 
-        alt="Pandas" 
-        title="Pandas"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img 
-        align="left" 
-        alt="Numpy" 
-        title="Numpy"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-    <img 
-        align="left" 
-        alt="GitHub" 
-        title="Scikitlearn"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    <img 
-        align="left" 
-        alt="GitHub" 
-        title="GitHub"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img 
-        align="left" 
-        alt="GitHub" 
-        title="Plotly"
-        width="45px" 
-        style="padding-right: 6px; padding-top: 6px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+<h3 align="left">👩‍💻  | Sobre mim</h3>
 
+###
 
-
-
-</div>
-<br/>
-<br/>
-
-## 🧑🏻‍💻 Projetos e Tecnologias em Foco
-
-- Focado em aprender **Javascript** para front-end e expandir meus projetos web.
-- **Python** como a minha linguagem favorita, explorando back-end, algoritmos e data science.
-- Tenho **_tendências_** de estudos para tecnologias **Backend**, como C#, Ruby, PHP.
+<p align="left">Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.</p>
 
 ---
 
-<br/>
-<div style="display: flex; margin-bottom: 50px; justify-content: space-around; align-items: center;" >
-    <img 
-        align="left" 
-        alt="Github-stats" 
-        height="190" 
-        style="padding-right: 10px; " 
-        src="https://github-readme-stats.vercel.app/api?username=CarlosFCode&show_icons=true&theme=radical" />
-    <img 
-        align="left" 
-        alt="Github-stats" 
-        height="190" 
-        style="padding-right: 10px; " 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFCode&theme=radical&layout=compact" />
+###
+
+<h3 align="left">🌐 |  Linguagens</h3>
+
+###
+
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python logo"  />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
 </div>
 
-<br/>
-<br/>
+---
 
-<br/>
+###
+
+<h3 align="left">📚 | Bibliotecas & Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="32" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="32" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge&logo=scikit-learn" height="32" alt="scikitlearn logo"  />
+  <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly" height="32" alt="plotly logo"  />
+  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn" height="32" alt="seaborn logo"  />
+
+
+</div>
+
+
+
+---
+
+###
+
+<h3 align="left">⚙️ | Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion" height="32" alt="notion logo"  />
+  <img src="https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian" height="32" alt="obsidian logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-blue?style=for-the-badge&logo=microsoft-office" height="32" alt="excel logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter" height="32" alt="jupyter logo"  />
+</div>
+
+
+
+---
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosFCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosFCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFCode&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="290" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosFCode.CarlosFCode&right_color=black"  />
+</div>
+
+###
