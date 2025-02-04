@@ -42,16 +42,31 @@
 
 ###
 
-<h3 align="left">📚 | Bibliotecas & Frameworks</h3>
+<h3 align="left">📚 | Bibliotecas</h3>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="32" alt="pandas logo"  />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="32" alt="numpy logo"  />
-  <img src="https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge&logo=scikit-learn" height="32" alt="scikitlearn logo"  />
+
+</div>
+
+
+
+---
+
+###
+
+<h3 align="left">📖 | Estudos Atuais e Futuros</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
   <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly" height="32" alt="plotly logo"  />
   <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn" height="32" alt="seaborn logo"  />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
 
 
 </div>
