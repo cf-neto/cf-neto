@@ -64,7 +64,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="SQL logo" />
   <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly" height="32" alt="plotly logo"  />
   <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn" height="32" alt="seaborn logo"  />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
