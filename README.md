@@ -1,5 +1,3 @@
-<img align="right" height="290" src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gifv"  />
-
 ###
 
 <h1 align="center">Carlos Fernando</h1>
@@ -36,6 +34,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
+<img src="https://img.shields.io/badge/SQL-66B2FF?style=for-the-badge&logo=sql&logoColor=white" height="32" alt="sql logo"  />
 </div>
 
 ---
@@ -63,9 +62,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
-  <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly" height="32" alt="plotly logo"  />
-  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn" height="32" alt="seaborn logo"  />
+  <img src="https://img.shields.io/badge/Plotly-3E7D9D?style=for-the-badge&logo=plotly&logoColor=white" height="32" alt="plotly logo"  />
+  <img src="https://img.shields.io/badge/Seaborn-2A5C9F?style=for-the-badge&logo=seaborn&logoColor=white" height="32" alt="seaborn logo"  />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
 
 
@@ -86,8 +84,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
   <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion" height="32" alt="notion logo"  />
-  <img src="https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian" height="32" alt="obsidian logo"  />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-blue?style=for-the-badge&logo=microsoft-office" height="32" alt="excel logo"  />
+  <img src="https://img.shields.io/badge/Obsidian-4C1B7D?style=for-the-badge&logo=obsidian&logoColor=white" height="32" alt="obsidian logo"  />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter" height="32" alt="jupyter logo"  />
 </div>
 
