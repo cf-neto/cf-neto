@@ -45,6 +45,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="32" alt="pandas logo"  />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="32" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Seaborn-2A5C9F?style=for-the-badge&logo=seaborn&logoColor=white" height="32" alt="seaborn logo"  />
+  <img src="https://img.shields.io/badge/Matplotlib-3E7D9D?style=for-the-badge&logo=matplotlib&logoColor=white" height="32" alt="matplotlib logo"  />
 
 </div>
 
@@ -59,8 +61,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Plotly-3E7D9D?style=for-the-badge&logo=plotly&logoColor=white" height="32" alt="plotly logo"  />
-  <img src="https://img.shields.io/badge/Seaborn-2A5C9F?style=for-the-badge&logo=seaborn&logoColor=white" height="32" alt="seaborn logo"  />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
