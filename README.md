@@ -32,6 +32,8 @@
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python logo"  />
 <img src="https://img.shields.io/badge/SQL-66B2FF?style=for-the-badge&logo=sql&logoColor=white" height="32" alt="sql logo"  />
+<img src="https://img.shields.io/badge/bash-121011?logo=gnubash&logoColor=white&style=for-the-badge" height="32" alt="bash logo"  />
+
 </div>
 
 ---
@@ -89,6 +91,8 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter" height="32" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" height="32" alt="DBeaver logo"  />
+
 </div>
 
 
