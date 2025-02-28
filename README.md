@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="32" alt="pandas logo"  />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="32" alt="numpy logo"  />
   <img src="https://img.shields.io/badge/Seaborn-2A5C9F?style=for-the-badge&logo=seaborn&logoColor=white" height="32" alt="seaborn logo"  />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="32" alt="plotly logo" />
   <img src="https://img.shields.io/badge/Matplotlib-3E7D9D?style=for-the-badge&logo=matplotlib&logoColor=white" height="32" alt="matplotlib logo"  />
 
 </div>
