@@ -112,8 +112,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosFCode.CarlosFCode&right_color=black"  />
-</div>
 
 ###
