@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/SQL-66B2FF?style=for-the-badge&logo=sql&logoColor=white" height="32" alt="sql logo"  />
 <img src="https://img.shields.io/badge/bash-121011?logo=gnubash&logoColor=white&style=for-the-badge" height="32" alt="bash logo"  />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo" />
 
 </div>
 
@@ -53,6 +54,7 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="32" alt="plotly logo" />
   <img src="https://img.shields.io/badge/Matplotlib-3E7D9D?style=for-the-badge&logo=matplotlib&logoColor=white" height="32" alt="matplotlib logo"  />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" alt="streamlit logo"  />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
 
 </div>
 
@@ -67,8 +69,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="32" alt="powerbi logo"  />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="32" alt="selenium logo"  />
   <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" height="32" alt="flask logo">
