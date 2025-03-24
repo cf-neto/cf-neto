@@ -73,6 +73,9 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="32" alt="selenium logo"  />
   <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" height="32" alt="flask logo">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="postgresql logo" />
+  <img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=python&logoColor=white" height="32" alt="spaCy logo" />
+
+
 </div>
 
 
