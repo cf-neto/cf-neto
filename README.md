@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlignY=35" /><br>
+
 ###
 
 <h1 align="center">Carlos Fernando</h1>
