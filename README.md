@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em Python. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.</p>
+<p align="left">Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em C#. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.</p>
 
 ---
 
