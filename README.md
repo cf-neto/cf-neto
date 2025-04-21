@@ -91,6 +91,7 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="32" alt=".NET logo" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
@@ -102,6 +103,7 @@
   <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" height="32" alt="DBeaver logo"  />
   <img src="https://img.shields.io/badge/XMind-FF6600?logo=xmind&logoColor=white&style=for-the-badge" alt="XMind logo" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify logo />
+
 </div>
 
 
