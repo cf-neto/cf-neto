@@ -102,7 +102,9 @@
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter" height="32" alt="jupyter logo"  />
   <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" height="32" alt="DBeaver logo"  />
   <img src="https://img.shields.io/badge/XMind-FF6600?logo=xmind&logoColor=white&style=for-the-badge" alt="XMind logo" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify logo />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify logo" />
+  <img src="https://img.shields.io/badge/Mermaid.js-1e4b5a?style=for-the-badge&logo=mermaid&logoColor=white" height="32" alt="mermaid.js logo" />
+
 
 </div>
 
