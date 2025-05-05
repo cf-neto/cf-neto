@@ -37,7 +37,6 @@
 <img src="https://img.shields.io/badge/bash-121011?logo=gnubash&logoColor=white&style=for-the-badge" height="32" alt="bash logo"  />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo" />
 
 </div>
 
@@ -66,17 +65,13 @@
 
 ###
 
-<h3 align="left">📖 | Estudos Atuais e Futuros</h3>
+<h3 align="left">📖 | Estudos Atuais</h3>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="32" alt="powerbi logo"  />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="32" alt="selenium logo"  />
-  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" height="32" alt="flask logo">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="postgresql logo" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32" alt="C# logo" />
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo" />
 
 </div>
 
