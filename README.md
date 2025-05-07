@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">📚 | Bibliotecas</h3>
+<h3 align="left">📚 | Bibliotecas ou Frame.</h3>
 
 ###
 
@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" alt="streamlit logo"  />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
   <img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=python&logoColor=white" height="32" alt="spaCy logo" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="32" alt=".NET logo" />
 </div>
 
 
@@ -86,7 +87,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="32" alt=".NET logo" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" height="32" alt="Visual Studio logo" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
