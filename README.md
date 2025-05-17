@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
   <img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=python&logoColor=white" height="32" alt="spaCy logo" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="32" alt=".NET logo" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" height="32" alt="tailwindcss logo" />
 </div>
 
 
