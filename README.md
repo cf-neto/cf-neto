@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-3E7D9D?style=for-the-badge&logo=matplotlib&logoColor=white" height="32" alt="matplotlib logo"  />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" alt="streamlit logo"  />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32" alt="scikit-learn logo" />
-  <img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=python&logoColor=white" height="32" alt="spaCy logo" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="32" alt=".NET logo" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" height="32" alt="tailwindcss logo" />
 </div>
@@ -99,7 +98,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="MySQL logo" />
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter" height="32" alt="jupyter logo"  />
-  <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" height="32" alt="DBeaver logo"  />
   <img src="https://img.shields.io/badge/XMind-FF6600?logo=xmind&logoColor=white&style=for-the-badge" height="32" alt="XMind logo" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="32" alt="Netlify logo" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="32" alt="Wireshark logo" />
