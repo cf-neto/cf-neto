@@ -54,6 +54,7 @@ Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta d
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" alt="Postman logo" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" height="32" alt="Visual Studio logo" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
@@ -68,6 +69,7 @@ Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta d
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="32" alt="Wireshark logo" />
   <img src="https://img.shields.io/badge/Mermaid.js-1e4b5a?style=for-the-badge&logo=mermaid&logoColor=white" height="32" alt="mermaid.js logo" />
   <img src="https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white&style=for-the-badge" height="32 alt="Nmap logo" />
+  
 
 
 
