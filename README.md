@@ -1,6 +1,6 @@
 <h1>Carlos Fernando</h1>
 
-Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em C#. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
+Meu nome é Carlos Fernando dos Santos Neto, tenho 17 anos e sou um entusiasta da tecnologia e da análise de dados. Sou autodidata e, atualmente, estou me aprofundando em ASP.NET. Além de aprender de forma autônoma, gosto de compartilhar o que sei aqui no github.
 
 ---
 
