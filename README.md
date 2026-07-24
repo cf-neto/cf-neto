@@ -1,17 +1,44 @@
-# hey, i'm carlos fernando
+<div align="center">
 
-18 y/o from brazil · self-taught dev · always building something
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=CARLOS&fontSize=48&fontColor=00ADD8&fontAlignY=45&desc=BACKEND%20ENGINEER&descAlignY=65&descSize=15&descColor=8b949e" width="100%"/>
 
-I work mostly with **Python** — backend, data analysis.  
-Currently exploring **FastAPI**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=Python+%2B+FastAPI+%2B+Clean+Architecture;Building+RPA+and+backend+automation;Currently+learning+Go;Always+shipping." alt="Typing SVG" />
 
----
+<br>
 
-**things I use**
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,postgres,docker,git,github,linux&theme=dark&perline=8" />
 
-`C#` `Python` `SQL` `JavaScript` `Bash` `HTML/CSS`  
-`FastAPI` `pandas` `Streamlit` `MySQL` `Linux` `Git`
+<br><br>
 
----
+<img src="https://img.shields.io/github/followers/cf-neto?style=flat-square&color=0d1117&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=0d1117&color=0d1117&label=commits&query=%24.total_count&url=https://api.github.com/search/commits?q=author:cf-neto"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=cf-neto&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=cf-neto&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&hide_title=true" />
+</div>
+
+<br>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cf-neto&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&hide_border=true&area=true)
+
+</div>
+
+<!-- ================= SUMMARY CARDS (multi-graph, requires action) ================= -->
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cf-neto&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cf-neto&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cf-neto&theme=github_dark" />
+
+</div>
+
+
+<!-- ================= SNAKE ================= -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
