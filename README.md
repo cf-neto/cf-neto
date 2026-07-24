@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=CARLOS&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=BACKEND%20ENGINEER&descAlignY=65&descSize=15&descColor=FFFFFF" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=CARLOS&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=BACKEND%20ENGINEER&descAlignY=65&descSize=15&descColor=FFFFFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Python+%2B+FastAPI+%2B+Clean+Architecture;Building+RPA+and+backend+automation;Currently+learning+Go" alt="Typing SVG" />
 
